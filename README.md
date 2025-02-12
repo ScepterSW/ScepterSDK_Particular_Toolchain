@@ -33,7 +33,7 @@
 ### Resources
 
 - Download links: https://github.com/ScepterSW , https://gitee.com/ScepterSW
-- Develop wiki: https://sceptersw.github.io/Scepter-Wiki/#/
+- Develop wiki: https://wiki.vzense.com/#/
 
 ### Others
 
